@@ -1,8 +1,3 @@
-package fibmap;
-/**
- *
- * @author myset
- */
 public class FibMap {
     
     public static long fib(int n){
